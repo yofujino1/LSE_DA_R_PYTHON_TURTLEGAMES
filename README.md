@@ -6,7 +6,7 @@ Key objectives included mapping customer profiles, enhancing loyalty programs, a
 I delivered actionable insights including consumer clustering, loyalty points analysis, text analytics of reviews, and a predictive MLR model for customer loyalty.
 This multi-faceted approach provided Turtle Games with strategic recommendations to drive business growth and improve customer engagement.
 ## TOOLS
-PHYTON, R, TABLEAU
+PYTHON, R, TABLEAU
 ## SKILL & RESOURCES
 -Data Wrangling, -EDA, Visualisations, -Actionable Insights for Data-Driven Decisions, -Storytelling, -K Means Clustering, -Forecasting, -Regression Models, -NLP,
 -Tokenisation, -Sentiment Analysis, -Predictive Modelling.
