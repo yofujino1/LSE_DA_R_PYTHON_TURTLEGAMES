@@ -1,4 +1,4 @@
-# LSE DATA ANALYTICS - INDIVIDUAL ASSIGNMENT 3
+# LSE DATA ANALYTICS - TURTLE GAMES - INDIVIDUAL ASSIGNMENT 3
 ## Passed with Distinction
 Leading a data analysis project for Turtle Games, a global manufacturer and retailer of books, toys, and games, I utilized Python and R to analyze sales data and customer reviews. #
 The project aimed to gain insights into overall sales performance and identify areas for improvement. 
