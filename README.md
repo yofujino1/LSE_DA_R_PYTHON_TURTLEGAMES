@@ -11,8 +11,9 @@ PYTHON, R, TABLEAU
 -Data Wrangling, -EDA, Visualisations, -Actionable Insights for Data-Driven Decisions, -Storytelling, -K Means Clustering, -Forecasting, -Regression Models, -NLP,
 -Tokenisation, -Sentiment Analysis, -Predictive Modelling.
 ## MATERIALS
-1) jupyter notebook
-2) R code
-3) PPT
-4) Technical Report
-5) Metadata
+1) Tableau 
+2) jupyter notebook
+3) R code
+4) PPT
+5) Technical Report
+6) Metadata
